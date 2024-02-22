@@ -1,4 +1,4 @@
-from models import CollegeInfo, Sports, Users, Matches, Players
+from tables import CollegeInfo, Sports, Users, Matches, Players
 from consts import colleges, fall_sports, winter_sports, spring_sports
 
 # Create colleges!

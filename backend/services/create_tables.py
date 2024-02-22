@@ -1,5 +1,5 @@
 from database import engine, Base
-from models import CollegeInfo, Sports, Users, Matches, Players
+from tables import CollegeInfo, Sports, Users, Matches, Players
 
 # Drop all tables in the engine.
 Base.metadata.drop_all(engine)

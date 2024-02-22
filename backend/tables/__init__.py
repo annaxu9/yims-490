@@ -1,4 +1,4 @@
-# models/__init__.py
+# tables/__init__.py
 from .college_info import CollegeInfo
 from .sports import Sports
 from .users import Users
